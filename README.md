@@ -68,7 +68,7 @@ If the HMS is missing, the device will prompt you to install or upgrade HMS firs
 
 This demo come with pre-configured `agconnect-services.json`, HMS dependencies, signing keys and
 in-app products. These pre-configured settings are for demo purpose only, please refer to the 
-[Documentation](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/10307459)
+[Documentation](https://developer.huawei.com/consumer/en/codelab/HMSIdentityKit/index.html#3)
 for guide of adopting Huawei Identity.
 
 
