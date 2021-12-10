@@ -4,7 +4,7 @@ The demo App demonstrates Huawei Identity client APIs and usages.
 
 Documentation can be found at this 
 
-[link](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/56693855).
+[link](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050040471).
 
 
 ## Table Of Content
